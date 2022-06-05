@@ -1,0 +1,133 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "image": "https://vignette.wikia.nocookie.net/batman/images/d/d5/Batman_%28DC_Rebirth%29.png/revision/latest?cb=20150402224051",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "image": "https://vignette.wikia.nocookie.net/superman/images/d/d5/Superman_%28DC_Rebirth%29.png/revision/latest?cb=20150402224051",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "image": "https://vignette.wikia.nocookie.net/batman/images/d/d5/Batman_%28DC_Rebirth%29.png/revision/latest?cb=20150402224051",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "erik",
+      "alterEgo": "fdafa",
+      "id": 4
+    },
+    {
+      "name": "erik",
+      "alterEgo": "fdafa",
+      "id": 5
+    },
+    {
+      "name": "erik",
+      "alterEgo": "fdafa",
+      "id": 6
+    },
+    {
+      "name": "erik",
+      "alterEgo": "fdafa",
+      "id": 7
+    },
+    {
+      "name": "Isuru Sampath",
+      "alterEgo": "fdafa",
+      "id": 8
+    },
+    {
+      "name": "Isuru Sampath",
+      "alterEgo": "fdafa",
+      "id": 9
+    },
+    {
+      "name": "Isuru Sampath",
+      "alterEgo": "fdafa",
+      "id": 10
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Clark Kent"
+    },
+    {
+      "id": 2,
+      "name": "Barry Allen"
+    },
+    {
+      "id": 3,
+      "name": "Oliver Queen"
+    }
+  ],
+  "users": [
+    {
+      "id": "isuru@gmail.com",
+      "channelId": "isuru"
+    }
+  ],
+  "channels": [
+    {
+      "id": "isuru",
+      "course": [
+        "React",
+        "Node",
+        "MongoDB",
+        "Express",
+        "Angular",
+        "Vue",
+        "React Native"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "color": "blue"
+    },
+    {
+      "id": 3,
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "color": "yellow"
+    },
+    {
+      "id": 5,
+      "color": "orange"
+    },
+    {
+      "id": 6,
+      "color": "purple"
+    },
+    {
+      "id": 7,
+      "color": "pink"
+    },
+    {
+      "id": 8,
+      "color": "brown"
+    },
+    {
+      "id": 9,
+      "color": "black"
+    },
+    {
+      "id": 10,
+      "color": "white"
+    }
+  ]
+}
